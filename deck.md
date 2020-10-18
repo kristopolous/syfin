@@ -21,6 +21,8 @@ Our telomeres shorten to critical lengths leading to apoptosis and naturally die
 
 The number of lipidinoids you have is directly related to your age. 
 
+<img src="cell.jpg" />
+
 The fewer you have, the older you are. 
 
 ---
@@ -35,7 +37,7 @@ For the first time, biological age can go backwards.
 
 ---
 
-## Let's make some money 
+## Let's make money 
 
 Elderly have all the assets.
 
@@ -59,8 +61,8 @@ They will pay anything for age reversal.
 
 <img src="youth.jpg" />
 
- * Cash-strapped young demand side
- * Wealthy older supply side
+ * Cash-strapped young on supply side
+ * Wealthy older on demand side
 
 ---
 
@@ -73,7 +75,7 @@ We're passing those savings on to our customers
 
 ---
 
-## Just kidding.
+## Just kidding
 
 We pass the profits onto you. 
 
@@ -93,9 +95,9 @@ That's why you're here.
 
 ---
 
-## pregnancy = Profit!
+## pregnancy = Profit
 
-* Producer payout: $7,500 + all medical costs per baby (0.75%)
+* Producer payout: $7,500 + all medical costs per baby 
 * 1 baby = 110 years of lipidinoids!
 * v1 machine: $275,000 gross profit
 * v2 machine: **$1,100,000** gross profit
@@ -117,8 +119,8 @@ $1,092,500 profit for 9 months of unskilled labor.
 ## Competition
 
  * Process is secret. Machine is patented. No plans to license
- * Transfer recovery about 96 hours 
- * Strict sleep, exercise, and diet is required
+ * Synthetic lipidinoids are still 10 years away
+ * Transfer recovery about 96 hours, Strict sleep, exercise, and diet is required
  * Organ transplants, skin grafting, and cosmetic surgery will hold on to markets
  * Our growth sector is in non-traditional vanity markets
 
@@ -126,9 +128,9 @@ $1,092,500 profit for 9 months of unskilled labor.
 
 # Financials
 
- * v2 machines are $10,000,000 and last 2 years
- * Clinic cost is $17,000 per day
- * Current baby influx is 3.12/week avg
+ * v2 machines are $10,000,000. Lasts 2 years
+ * Clinic cost: $17,000/day
+ * Average baby influx: 3.12/week
  * Full infant depletion: All lipinoids before cell degeneration are made productive
 
 ---
