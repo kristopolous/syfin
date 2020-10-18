@@ -120,7 +120,7 @@ $1,092,500 profit for 9 months of unskilled labor.
 
  * Process is secret. Machine is patented. No plans to license
  * Synthetic lipidinoids are still 10 years away
- * Transfer recovery about 96 hours, Strict sleep, exercise, and diet is required
+ * Transfer recovery about 96 hours. Strict sleep, exercise, and diet is required
  * Organ transplants, skin grafting, and cosmetic surgery will hold on to markets
  * Our growth sector is in non-traditional vanity markets
 
