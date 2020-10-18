@@ -35,13 +35,13 @@ For the first time, biological age can go backwards.
 
 ---
 
-## Let's make money from this!
+## Let's make some money 
 
 Elderly have all the assets.
 
 <img src="wealth.jpeg" />
 
-They would reverse their age at any price.
+They will pay anything for age reversal.
 
 ---
 
@@ -59,15 +59,15 @@ They would reverse their age at any price.
 
 <img src="youth.jpg" />
 
- * Wealthy older supply side.
- * Cash strapped young demand side.
+ * Cash-strapped young demand side
+ * Wealthy older supply side
 
 ---
 
 ## Technical progress
 
- * Syfin 1.0: 1 week younger per 10 years of lipdinoids.
- * Syfin 2.0: 1 **month** younger per 10 years.
+ * Syfin 1.0: 1 week younger per 10 years of lipdinoids
+ * Syfin 2.0: 1 **month** younger per 10 years of lipidinoids
 
 We're passing those savings on to our customers 
 
@@ -89,16 +89,18 @@ That's why you're here.
 
 * Newborn babies 
 * Alternative to inaccessible abortions
-* Test markets: Salt Lake City, Oklahoma City and Charleston.
+* Test markets: Salt Lake City, Oklahoma City and Charleston
 
 ---
 
-## pregnancy 🡆 Profit!
+## pregnancy = Profit!
 
-* $180,000 + all medical costs per baby
+* Producer payout: $7,500 + all medical costs per baby (0.75%)
 * 1 baby = 110 years of lipidinoids!
-* v1 machine: $275,000
-* v2 machine: **$1,100,000!**
+* v1 machine: $275,000 gross profit
+* v2 machine: **$1,100,000** gross profit
+
+$1,092,500 profit for 9 months of unskilled labor.
 
 ---
 
@@ -108,30 +110,30 @@ That's why you're here.
  * Proof of pregnancy detector for Android/iOS
  * Artificial insemination kit to optimize process 
  * Genetic tests for twin-producers
- * Futures contracts: Loans available prior to baby production date.
+ * Futures contracts: Loans available prior to baby production date
 
 ---
 
 ## Competition
 
- * Machine is patented. No plans to license.
- * Transfer recovery is about 96 hours 
+ * Process is secret. Machine is patented. No plans to license
+ * Transfer recovery about 96 hours 
  * Strict sleep, exercise, and diet is required
- * Organ transplants, skin grafting, and cosmetic surgery will hold on to markets.
- * Growth in non-tradition vanity markets.
+ * Organ transplants, skin grafting, and cosmetic surgery will hold on to markets
+ * Our growth sector is in non-traditional vanity markets
 
 ---
 
 # Financials
 
- * v2 machines are $10,000,000 each, last 2 years.
- * Clinic cost is $17,000 per day.
- * Current baby influx is 3.12/week average.
- * All lipinoids before cell degeneration are used by careful scheduling.
+ * v2 machines are $10,000,000 and last 2 years
+ * Clinic cost is $17,000 per day
+ * Current baby influx is 3.12/week avg
+ * Full infant depletion: All lipinoids before cell degeneration are made productive
 
 ---
 
-# Per unit profit 
+# Per unit annual profit 
 
  * v1 net per clinic: $11.7 million 
  * v2 net per clinic: $140.0 million (*est*)
@@ -141,16 +143,18 @@ That's why you're here.
 # Raise amount
 
  * $750,000,000 in convertible notes at $2,000,000,000 valuation
- * 75 machines on 75 sites in wealthy countries w/o abortion: Saudi Arabia, UAE, Brazil, India, and Singapore.
- * More baby-producers in poorer countries.
+ * 75 machines in wealthy countries w/o abortion: Saudi Arabia, UAE, Brazil, India, and Singapore
+ * More baby-producers in poorer countries. Payout can be much lower
+ * Medical tourism surcharge possible to avoid waitlist
 
 ---
 
 # Raise amount cont.
 
  * 6-month lead time for v2 manufacturing 
- * Investments of over $10,000,000 get to skip waitlist.
+ * Investors of over $10,000,000 skip waitlist
  * Global operation of 75 clinics in 6-9 months
+ * Sequoia Capital & Matrix Partners lead at $400,000,000
 
 ---
 
