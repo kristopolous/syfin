@@ -71,4 +71,19 @@ Competition
 
 Financials
 
+        v2 machines are currently $10,000,000 each to manufacture and require a medical specialist that costs about $250,000/year to operate.
+        With daily use we estimate a 2 year life-cycle for each machine. 
+
+        All costs in we are at $17,000 per day per installation. We are getting between 2-4 babies per week and so far have been able to use all the lipinoids of every baby before cell degeneration and malignation by careful logistical scheduling.
+
+        After child producer cost this led to 11.7 million gross per annum for v1 and we estimate about $140 million per installation per year with v2.
+
 Amount being raised
+
+        We are looking for $750,000,000 for 75 machines to do a world-wide expansion into wealthy countries with restrictive abortion rules such as Saudi Arabia, the UAE, Brazil, India, and Singapore.
+
+        There's a 6 month lead time for manufacturing and we will spend that time securing locations and local language specialists as needed.
+
+        We estimate that there will be even a greater supply of babies in these countries given the economic stratification of these countries.
+
+
