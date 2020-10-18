@@ -37,11 +37,11 @@ For the first time, biological age can go backwards.
 
 ## Let's make money from this!
 
-The old have all the cash.
+Elderly have all the assets.
 
 <img src="wealth.jpeg" />
 
-They will reverse their age at any cost.
+They would reverse their age at any price.
 
 ---
 
@@ -50,7 +50,7 @@ They will reverse their age at any cost.
 <img src="money.jpg" />
 
 * $100,000 to reverse age 1 month 
-* $9,000,000 is average sale
+* $9,000,000 average sale
 * 1,500 on waiting list 
 
 ---
