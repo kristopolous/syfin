@@ -1,0 +1,31 @@
+body { 
+  font-family: 'Raleway', sans-serif;
+  background: rgba(84, 48, 25,0.1); 
+  color: rgba(84, 48, 25);
+}
+img { width: auto;max-height: 30vh }
+div.slide h1,h2 {
+  text-transform: uppercase;
+  padding: 0 0;
+  margin: 1rem 0 ;
+  text-align: center }
+
+h3 {
+  text-align: center }
+#main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center }
+
+p {
+  text-align: center;
+}
+div.slide { 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem; }
