@@ -19,8 +19,6 @@ Our telomeres shorten to critical lengths leading to apoptosis and naturally die
 
 ### The key is your lipidinoid count
 
-The number of lipidinoids you have is directly related to your age. 
-
 <img src="cell.jpg" />
 
 The fewer you have, the older you are. 
@@ -43,7 +41,16 @@ Elderly have all the assets.
 
 <img src="wealth.jpeg" />
 
-They will pay anything for age reversal.
+They will pay anything for age reversal
+
+---
+
+## Two-sided marketplace 
+
+<img src="youth.jpg" />
+
+ * Cash-strapped young on supply side
+ * Wealthy older on demand side
 
 ---
 
@@ -54,15 +61,6 @@ They will pay anything for age reversal.
 * $100,000 to reverse age 1 month 
 * $9,000,000 average sale
 * 1,500 on waiting list 
-
----
-
-## Two-sided marketplace 
-
-<img src="youth.jpg" />
-
- * Cash-strapped young on supply side
- * Wealthy older on demand side
 
 ---
 
@@ -122,7 +120,7 @@ $1,092,500 profit for 9 months of unskilled labor.
  * Synthetic lipidinoids are still 10 years away
  * Transfer recovery about 96 hours. Strict sleep, exercise, and diet is required
  * Organ transplants, skin grafting, and cosmetic surgery will hold on to markets
- * Our growth sector is in non-traditional vanity markets
+ * Growth sector is non-traditional vanity markets
 
 ---
 
@@ -144,7 +142,7 @@ $1,092,500 profit for 9 months of unskilled labor.
 
 # Raise amount
 
- * $750,000,000 in convertible notes at $2,000,000,000 valuation
+ * $750,000,000 in convertible notes at $4,000,000,000 valuation
  * 75 machines in wealthy countries w/o abortion: Saudi Arabia, UAE, Brazil, India, and Singapore
  * More baby-producers in poorer countries. Payout can be much lower
  * Medical tourism surcharge possible to avoid waitlist
@@ -156,7 +154,7 @@ $1,092,500 profit for 9 months of unskilled labor.
  * 6-month lead time for v2 manufacturing 
  * Investors of over $10,000,000 skip waitlist
  * Global operation of 75 clinics in 6-9 months
- * Sequoia Capital & Matrix Partners lead at $400,000,000
+ * Yosemite Capital & LiquidBank lead at $400,000,000
 
 ---
 
